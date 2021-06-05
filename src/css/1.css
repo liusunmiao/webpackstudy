@@ -1,0 +1,11 @@
+li{
+    list-style-type: none;
+}
+::placeholder{
+    color: red;
+}
+#box{
+    width: 580px;
+    height: 340px;
+    background: pink url("../imgae/icon_ershoujiaoyi.png") no-repeat;
+}
